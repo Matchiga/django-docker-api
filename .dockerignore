@@ -1,0 +1,18 @@
+# No terminal (dentro de meu-primeiro-crud-em-python)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.db
+*.sqlite3
+.git/
+.gitignore
+*.log
+.env
+.vscode/
+.idea/
+htmlcov/
+.coverage
